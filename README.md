@@ -4,7 +4,7 @@
 
 ## Description
 
-Official PyTorch implementation of "Decoupling MaxLogit for Out-of-Distribution Detection"
+CVPR2023  Official PyTorch implementation of "Decoupling MaxLogit for Out-of-Distribution Detection".
 
 ## Data
 
