@@ -91,3 +91,20 @@ AUPR:                   98.29
 
 ```
 
+
+## Acknowledgement
+The repo is built on [LogitNorm](https://github.com/hongxin001/logitnorm_ood).
+
+
+## Citation
+If you find this useful in your research, please consider citing:
+```
+@InProceedings{Zhang_2023_CVPR,
+    author    = {Zhang, Zihan and Xiang, Xiang},
+    title     = {Decoupling MaxLogit for Out-of-Distribution Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {3388-3397}
+}
+```
